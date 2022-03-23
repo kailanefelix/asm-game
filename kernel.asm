@@ -386,6 +386,7 @@ musicas:
     mov si, musica3
     call print_string
 
+
     ;Colocando a string instrucao5
     mov ah, 02h  ;Setando o cursor
 	mov bh, 0    ;Pagina 0
